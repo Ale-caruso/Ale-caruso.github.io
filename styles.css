@@ -1,0 +1,138 @@
+*
+   { margin: 0;
+    padding: 0%;
+    
+    
+}
+
+body {
+    background-color: rgb(223, 223, 40);
+}
+
+.titulo  { 
+    text-align: center;
+    margin: auto;
+    padding: 12px;
+}
+
+.titulo h2 {
+    color: rgb(4, 5, 71);
+}
+
+.titulo p {
+    padding: 12px;
+
+}
+
+.menu{
+    background-color: rgb(31, 7, 77);
+    padding: 1px 0;
+    
+}
+
+.inicio{
+    list-style: none;
+    margin: 2px;
+    padding: auto;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.inicio :hover{
+    color: aqua;
+}
+
+.inicio a {
+    color: antiquewhite;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: block;
+
+}
+.form-register{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(2, 2, 2);
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 6px;
+    color: aliceblue;
+    }
+
+    .form-register h4 {
+        margin-bottom: 12px;
+        font-size: 22px ;
+    }
+
+    .control {
+        display: flex;
+        border-radius: 2px;
+        width: 100%;
+        height: 40px;
+        
+        
+    }
+
+    .relleno {
+        margin: 1px;
+        padding: 12px;
+        margin-top: px;
+        
+
+    }
+
+    .final { 
+        margin-top: 12px;
+        padding: 2px;
+        
+    }
+
+    .final ul {
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+    }
+
+    .link-partidos {
+        margin-top: 12px;
+        padding: 12px;
+
+
+    }
+
+    .link-partidos h1{
+        text-align: center;
+        margin-top: 12px;
+    }
+
+    .link-partidos p {
+        margin-top: 32px;
+        height: 40px;
+        padding: auto;
+    }
+
+    .link-partidos ul {
+        list-style: none;
+        justify-content: space-between;
+        display: flex;
+        padding: 4px;
+        margin: 3px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
